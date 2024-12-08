@@ -1,2 +1,2 @@
 # new
-inex (2).html
+# index (2).html
